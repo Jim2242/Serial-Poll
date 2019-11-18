@@ -1,4 +1,4 @@
-# Serial-Sketch
+# Serial-Poll
 Polling Serial Interface
 
 Testing the serial interface to arduino processor, 
