@@ -8,4 +8,4 @@ The delay between led blinks is modified when a new character arrives from the s
 3) The value of the delay variable is printed to the serial port
 4) LEDs blink on and off using delay variable
 
-Have yet to find a way to use the serial interface to create an interrupt for my arduino Nano board.
+Have yet to find a way to use the serial interface to create an interrupt for my arduino Uno board, interrupts are reserved for pins 2 and 3.
